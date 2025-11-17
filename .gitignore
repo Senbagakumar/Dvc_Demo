@@ -54,3 +54,4 @@ models/
 *.tar
 *.tar.gz
 *.zip
+/data
